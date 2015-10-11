@@ -1,0 +1,1 @@
+The duckGun is a unity project with 2 scenes, one for shooting ducks and one for the android app. Both of them are connected via a python server which also calculates the mean to smoothen the data.
